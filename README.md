@@ -8,4 +8,6 @@
    - A simple and efficient tool to convert SLR marks → SAT score → GPA.
    - designed for students to quickly understand their academic performance in standardized formats.
 
-
+# 🚀 Features
+   - 🔄 Convert SLR marks to SAT score
+   - 📊 Convert SAT score to GPA
