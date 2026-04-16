@@ -19,3 +19,6 @@
 # Step 1: SLR → SAT
     - Converts internal/SLR marks into SAT score range
 
+# Step 2: SAT → GPA
+    - Maps SAT score to GPA scale (0.0 – 4.0 or custom scale
+
