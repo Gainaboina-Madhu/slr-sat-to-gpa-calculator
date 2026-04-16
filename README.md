@@ -14,3 +14,8 @@
    - ⚡ Fast and accurate calculations
    - 💻 Easy-to-use interface
    - 📱 Responsive design
+
+# 🧮 Conversion Logic
+# Step 1: SLR → SAT
+    - Converts internal/SLR marks into SAT score range
+
