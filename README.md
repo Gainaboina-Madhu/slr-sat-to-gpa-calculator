@@ -34,5 +34,14 @@
             GPA = 3.7
 
 # 📊 Formula (Sample):
-  - **SAT = (SLR Marks × 16)**
-  - **GPA = SAT / 400**    
+
+     - SAT = (SLR Marks × 16)
+     - GPA = SAT / 400
+
+# 🎯 Use Cases
+ - Students converting academic scores
+ - College application preparation
+ - Academic analysis tools
+
+# 👨‍💻 Author
+ - Gainaboina Madhu
