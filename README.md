@@ -32,3 +32,7 @@
         
             SAT Score = 1350
             GPA = 3.7
+
+# 📊 Formula (Sample):
+  - **SAT = (SLR Marks × 16)**
+  - **GPA = SAT / 400**    
