@@ -11,3 +11,6 @@
 # 🚀 Features
    - 🔄 Convert SLR marks to SAT score
    - 📊 Convert SAT score to GPA
+   - ⚡ Fast and accurate calculations
+   - 💻 Easy-to-use interface
+   - 📱 Responsive design
