@@ -4,4 +4,6 @@
 
    - simple Linear regression it use's independent and dependent columns
    - is use a slope formula y = mx+c
-   - 
+
+ - A simple and efficient tool to convert SLR marks → SAT score → GPA.
+ - 
