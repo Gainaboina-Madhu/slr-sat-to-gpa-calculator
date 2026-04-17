@@ -11,8 +11,7 @@
 # 📘 About Simple Linear Regression:
    - Simple Linear Regression (SLR) uses:
    - One independent variable (X)
-   - 
-
+   - One dependent variable (Y)
 # 🚀 Features
    - 🔄 Convert SLR marks to SAT score
    - 📊 Convert SAT score to GPA
