@@ -17,6 +17,7 @@
          - y = mx + c
 
    -  Where:
+   -  m = slope
    -  
 # 🚀 Features
    - 🔄 Convert SLR marks to SAT score
