@@ -10,6 +10,7 @@
 
 # 📘 About Simple Linear Regression:
    - Simple Linear Regression (SLR) uses:
+   - One independent variable (X)
    - 
 
 # 🚀 Features
