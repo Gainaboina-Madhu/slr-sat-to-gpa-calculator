@@ -16,7 +16,7 @@
 
          - y = mx + c
 
-   -  Where:
+   -  **Where**:
    -  m = slope
    -  c = intercept
 # 🚀 Features
