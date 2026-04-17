@@ -18,7 +18,7 @@
 
    -  Where:
    -  m = slope
-   -  
+   -  c = intercept
 # 🚀 Features
    - 🔄 Convert SLR marks to SAT score
    - 📊 Convert SAT score to GPA
