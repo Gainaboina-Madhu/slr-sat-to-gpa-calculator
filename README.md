@@ -10,8 +10,14 @@
 
 # 📘 About Simple Linear Regression:
    - Simple Linear Regression (SLR) uses:
-   - One independent variable (X)
-   - One dependent variable (Y)
+   - **One independent variable (X)**
+   - **One dependent variable (Y)**
+   - It follows the slope-intercept formula:
+
+         - y = mx + c
+
+   -  Where:
+   -  
 # 🚀 Features
    - 🔄 Convert SLR marks to SAT score
    - 📊 Convert SAT score to GPA
