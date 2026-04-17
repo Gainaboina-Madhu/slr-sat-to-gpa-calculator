@@ -9,6 +9,7 @@
    - designed for students to quickly understand their academic performance in standardized formats.
 
 # 📘 About Simple Linear Regression:
+   - Simple Linear Regression (SLR) uses:
    - 
 
 # 🚀 Features
