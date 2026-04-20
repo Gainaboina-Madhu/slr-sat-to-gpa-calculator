@@ -2,7 +2,7 @@
 
 # Simple Linear Regression
 
-   - simple Linear regression it use's only one independent column and only one dependent columns
+   - In simple Linear regression it use's only one independent column and only one dependent columns
    - is use a slope formula y = mx+c
 
    - A simple and efficient tool to convert SLR marks → SAT score → GPA.
