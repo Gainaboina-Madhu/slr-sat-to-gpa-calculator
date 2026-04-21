@@ -52,7 +52,7 @@
 # 🎯 Use Cases
  - **Students converting academic scores**
  - **College application preparation**
- - Academic analysis tools
+ - **Academic analysis tools**
 
 # 👨‍💻 Author
  - Gainaboina Madhu
