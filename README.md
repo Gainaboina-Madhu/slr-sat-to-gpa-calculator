@@ -50,7 +50,7 @@
      - GPA = SAT / 400
 
 # 🎯 Use Cases
- - Students converting academic scores
+ - **Students converting academic scores**
  - College application preparation
  - Academic analysis tools
 
